@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boymark444
+- 👋 Hi, I’m Mark Glenn
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Python and C.
 - 💞️ I’m looking to collaborate on ...
